@@ -10,6 +10,4 @@ William Robinson 100751756
 
 Raphaiel Halim 100700318
 
-Project Title
-
-"Tobcrpugs"
+Project Title "Tobcrpugs"
