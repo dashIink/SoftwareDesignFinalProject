@@ -12,6 +12,4 @@ Raphaiel Halim 100700318
 
 Project Title
 
-# HKP Project: Simulation 3.5 Xrd, definitive ReDuX Solaris 2.5S: 245/2 seconds: HD Remix
-
-(Title Pending)
+"Tobcrpugs"
