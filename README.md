@@ -14,6 +14,8 @@ Project Title "Tobcrpugs"
 
 Contents:
 
+Appendix contains 3 files: Constraints, Quality Attributes and Use Cases
+
 Phase 1: HKP_Project.pdf
 
 Phase 2: Software Design Final Phase 2.pdf
