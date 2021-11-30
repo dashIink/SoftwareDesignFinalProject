@@ -17,6 +17,8 @@ Phase 1: HKP_Project.pdf
 
 Phase 2: Software Design Final Phase 2.pdf
 
+Presentation: Project Presentation.pdf
+
 Iteration 1: Project Progress Report - iteration 1.pdf
 
 Iteration 2: Project Progress Report - iteration 2.pdf
