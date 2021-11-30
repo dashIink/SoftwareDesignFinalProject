@@ -1,18 +1,15 @@
 # SoftwareDesignFinalProject Group 11
 
-Group Members
+### Group Members
 
-Liam Rea 100743012
+* Liam Rea 100743012
+* Philip Jasionowski 100751888
+* William Robinson 100751756
+* Raphaiel Halim 100700318
 
-Philip Jasionowski 100751888
+## Project Title "Tobcrpugs"
 
-William Robinson 100751756
-
-Raphaiel Halim 100700318
-
-Project Title "Tobcrpugs"
-
-Contents:
+### Contents:
 
 Appendix contains 3 files: Constraints, Quality Attributes and Use Cases
 
