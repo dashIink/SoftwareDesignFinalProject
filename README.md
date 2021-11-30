@@ -26,4 +26,3 @@ Iteration 2: Project Progress Report - iteration 2.pdf
 
 Iteration 3: Project Progress Report - iteration 3.pdf
 
-Use Case models, Quality Attributes and System contstraints are in Phase 2, as well as in the Appendix of Iteration 1
