@@ -23,7 +23,8 @@ Iteration 2: [Project Progress Report - iteration 2.pdf](https://github.com/dash
 
 Iteration 3: [Project Progress Report - iteration 3.pdf](https://github.com/dashIink/SoftwareDesignFinalProject/blob/main/Phase%203/Project%20Progress%20Report%20-%20iteration%203.pdf)
 
-### Appendix 
+
+### Appendix:
 
 Constraints: [Constraints.pdf](https://github.com/dashIink/SoftwareDesignFinalProject/blob/main/Appendix/Constraints.pdf)
 
