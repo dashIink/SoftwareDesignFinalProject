@@ -21,7 +21,7 @@ Presentation: [Project Presentation.pdf](https://github.com/dashIink/SoftwareDes
 
 Iteration 1: [Project Progress Report - iteration 1.pdf](https://github.com/dashIink/SoftwareDesignFinalProject/blob/main/Phase%203/Project%20Progress%20Report%20-%20iteration%201.pdf)
 
-Iteration 2: [Project Progress Report - iteration 2.pdf] (https://github.com/dashIink/SoftwareDesignFinalProject/blob/main/Phase%203/Project%20Progress%20Report%20-%20iteration%202.pdf)
+Iteration 2: [Project Progress Report - iteration 2.pdf](https://github.com/dashIink/SoftwareDesignFinalProject/blob/main/Phase%203/Project%20Progress%20Report%20-%20iteration%202.pdf)
 
-Iteration 3: [Project Progress Report - iteration 3.pdf] (https://github.com/dashIink/SoftwareDesignFinalProject/blob/main/Phase%203/Project%20Progress%20Report%20-%20iteration%203.pdf)
+Iteration 3: [Project Progress Report - iteration 3.pdf](https://github.com/dashIink/SoftwareDesignFinalProject/blob/main/Phase%203/Project%20Progress%20Report%20-%20iteration%203.pdf)
 
